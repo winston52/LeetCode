@@ -16,7 +16,7 @@
 * [string类成员函数find/find_first_of用法详解](https://blog.csdn.net/iot_change/article/details/8496977)
 #### 具体代码
 
-```
+```c++
 string toGoatLatin(string S) {
     stringstream iss(S), oss;
     string vowels("aeiouAEIOU"), word, a;
