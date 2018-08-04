@@ -12,5 +12,5 @@
 * 利用C++中stringstream去除空格，进而得到这句话中的每个单词
 * 利用C++中string类的成员函数find/find_first_of来判断首字母是否为元音字母
 #### 涉及的知识点：
-[C++中stringstream的使用方法和样例][https://blog.csdn.net/sophia1224/article/details/53054698]
-[string类成员函数find/find_first_of用法详解][https://blog.csdn.net/iot_change/article/details/8496977]
+[C++中stringstream的使用方法和样例](https://blog.csdn.net/sophia1224/article/details/53054698)
+[string类成员函数find/find_first_of用法详解](https://blog.csdn.net/iot_change/article/details/8496977)
