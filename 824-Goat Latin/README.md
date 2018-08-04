@@ -15,7 +15,9 @@
 * [C++中stringstream的使用方法和样例](https://blog.csdn.net/sophia1224/article/details/53054698)
 * [string类成员函数find/find_first_of用法详解](https://blog.csdn.net/iot_change/article/details/8496977)
 #### 具体代码
-```string toGoatLatin(string S) {
+
+```
+string toGoatLatin(string S) {
     stringstream iss(S), oss;
     string vowels("aeiouAEIOU"), word, a;
     while (iss >> word) {
@@ -26,4 +28,5 @@
             oss << ' ' << word.substr(1) << word[0] << "ma" << a;
     }
     return oss.str().substr(1);
-}```
+}
+```
