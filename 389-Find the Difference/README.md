@@ -1,4 +1,4 @@
-## LeetCode 824.Goat Latin
+## LeetCode 389.Find the Difference
 
 ### 自己的方法
 #### 解决思路：    
