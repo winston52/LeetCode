@@ -2,6 +2,8 @@
 
 #### 解决思路：    
 * 利用两个栈，实现队列的功能
+#### 参考网页
+* [LeetCode 232： Implement Queue using Stacks](https://blog.csdn.net/sunao2002002/article/details/46793425)
 
 #### 具体代码
 
