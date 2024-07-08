@@ -1,5 +1,3 @@
 # LeetCode
 
-## 记录LeetCode刷题过程~
-
-* freedom-hwt
+## 记录LeetCode刷题过程
